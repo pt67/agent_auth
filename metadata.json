@@ -1,0 +1,5 @@
+{
+  "name": "Auth0 AI Agent Assistant",
+  "description": "An agentic AI application demonstrating secure tool and knowledge access using a simulation of Auth0 for AI Agents. Users can interact with an AI assistant whose capabilities are controlled by user-granted permissions.",
+  "requestFramePermissions": []
+}
